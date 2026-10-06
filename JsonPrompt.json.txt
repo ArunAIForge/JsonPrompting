@@ -1,0 +1,165 @@
+[
+  {
+    image_reference image_1.png,
+    prompt {
+      framework SCALE,
+      theme Sangam Era Martial Heritage & Village Training Ground (Kalari & Silambam),
+      scale_components {
+        subject In the foreground, an elderly guru in a weathered cotton veshti observes two youth sparring; one yields a curved sword and a metallic circular shield, and the adversary wields a traditional bamboo staff (Silambam). Off-center right, a seated scribe on a palm mat is etching manuscripts with a stylus, and onlookers in earthy, unstitched drapes watch attentively,
+        composite Wide, active cinematic narrative on a packed red-dirt village compound; foreground captures the intensive combat sparring, while the midground displays agile trainees practicing jumps and mock combat, and cattle, carts, and villagers move by rustic thatched huts. The background showcases a monumental ancient stone shrine framed by sprawling banyan foliage,
+        action Intense combat sparring with swords, shields, and staffs; natural training moves, jumping, and defensive maneuvers; a scribe writing on palm leaves (olai chuvadi), villagers and families observing from thatched porches, and cattle being guided along the background pathways,
+        location The earthen training yard (KalariMandram) of an ancient Tamil forest clearing or village settlement, dotted with straw-roofed adobe mud dwellings, massive root-bound banyan and palm trees, and a weathered stone tiered shrine in the background,
+        ethestic Gandid, documentary-style cinematic photograph with rich, natural 35mm film grain; warm morning golden hour with dusty, hazy atmosphere and dappled sunlight; organic, earthy color palette dominated by terracotta red soil, deep ochres, natural straw, and jungle greens; un-posed, showing natural movement and historical realism (image_3.png)
+      },
+      full_image_prompt A candid, grain-textured, natural light 35mm-style photograph depicting the ancient martial heritage of a Tamil forest-clearing settlement during the Sangam era (over 1500 years ago). In the foreground-left, an elderly, silver-haired guru in a faded cotton veshti directs sparring youth—one using a curved steel sword and circular metal shield, the other a long bamboo staff (Silambam)—on the red-earthen yard. To the right, a scribe seated on a palm mat etches palm-leaf manuscripts (olai chuvadi) near bundles of scripts, as villagers in simple, handwoven unstitched wraps look on. In the active midground, younger trainees practice agile jumps and mock hand-to-hand combat, interspersed with children, roaming cattle, and bullock carts around thatched-roof adobe homes. A massive, root-bound banyan tree frames the scene, with its sprawling canopy extending over an ancient, weathered stone tiered temple in the background. The morning golden hour catches natural dust and smoke rising from the settlement, presenting a busy, authentic slice of historical life with rich terracotta, ochre, and natural green tones, showing natural movement blur and worn historical realism (image_3.png).
+    }
+  },
+  {
+    image_reference image_2.png,
+    prompt {
+      framework SCALE,
+      theme Ancient Tamil Harvest Festival Celebration (Pongal) in an Agrarian Village,
+      scale_components {
+        subject In the foreground, a village family gathers around a traditional boiling clay pot on an open fire—a woman in a draped ochre and red saree stirs the pot, while an elderly, bearded farmer gesturously assists. Nearby, a seated scribe in a simple wrap records the harvest on palm-leaf scripts, and farmers in the midground tend to sacred humped bulls with painted horns,
+        composite Generous, cinematic wide shot of a bustling agrarian village during the harvest celebration; foreground showcases the boiling of the newly harvested crop (Pongal) on a mud-plastered yard adorned with white and colored rice-powder patterns (kolam), alongside heaps of sugarcane and banana leaf offerings. The midground features villagers with a heavily laden sugarcane cart, and a distant, ornate stone temple rises beside extensive flooded paddy fields in the background,
+        action Cooking the celebratory harvest in a clay pot, tending to decorated cattle, moving heavily laden bullock carts of sugarcane, creating intricate floor patterns (kolam) with rice flour, preparing food offerings on banana leaves, and writing on palm-leaf manuscripts with a stylus,
+        location A rustic, natural farming village settlement in ancient Tamil Nadu during the harvest season, featuring a packed-dirt communal courtyard, mud and thatch houses, massive banyan and palm trees, and expansive wet paddy fields in the background,
+        ethestic Authentic, candid 35mm-style photograph during early morning golden hour with rising natural mist and cooking-fire smoke; warm, natural earthy color palette with vibrant ochres, terracotta, rich greens, and natural straw; highly detailed textures of mud plaster, woven thatch, and un-posed historical slice-of-life realism (image_4.png)
+      },
+      full_image_prompt A candid, historically rich 35mm film-style photograph capturing an ancient Tamil harvest celebration (Pongal) in a sprawling agrarian village, circa 1500 years ago. In the foreground, a family gather near the mud-plastered yard; a woman in a rustic ochre and red unstitched cotton saree stirs a boiling clay pot over an open wood fire, while an elderly, silver-bearded farmer in a simple veshti assists. Beside them, on the earthen ground, are intricate rice-powder patterns (kolam), piles of harvested sugarcane, and banana leaves filled with grain and fruit offerings. To the right, a scribe seated on a mat etches palm-leaf manuscripts (olai chuvadi). In the active midground on the left, farmers honor and inspect sacred humped bulls (Kangayam cattle) with decorated horns and garlands, while to the right, villagers guide a wooden bullock cart heavily loaded with sugarcane past thatched-roof adobe houses. Wide-open wet paddy fields with standing grain and tall palm trees extend into the distance, where a grand, weathered stone temple stands against the early morning golden hour. Rising mist and smoke from outdoor hearths create natural atmospheric haze, capturing a lively, authentic historical community celebration in natural, earthy, and sunlit tones (image_4.png).
+    }
+  },
+  {
+    image_reference image_3.png,
+    prompt {
+      framework SCALE,
+      theme An Ancient Tamil Literary & Royal Assembly (The Sangam Academy in Madurai),
+      scale_components {
+        subject On the left, a Pandya or Chola king seated on an elaborate stone-and-lion throne under a ceremonial parasol, flanked by armored guards with swords and shields. In the foreground-center, prominent, bare-chested poet-scholars with silver hair and sandalwood markings gesture during a passionate debate, while a royal scribe on a mat (right) records the literary discourse on palm leaves,
+        composite Indoor-outdoor wide-angle view of a grand palace and temple assembly; foreground captures seated scholars and scribes, the left hosts the royal court with advisors, and the midground and right feature crowds of attending scholars, artists, and dignitaries. In the background, towering granite Dravidian temple towers (gopurams), colonnaded stone mandapams, and an interior stepped tank are visible,
+        action Scholars actively gesturing and debating literary manuscripts, a scribe etching Tamil-Brahmi script with a stylus (ezhuthani), royal advisors consulting with the king, guards standing in formal poses, and crowds observing from stone tiers and walkways,
+        location The grand, open-air granite courtyard of a royal palace and temple complex in ancient Madurai or Thanjavur, featuring heavily carved pillars, stone stepped pathways, and an adjacent stepped water tank,
+        ethestic High-contrast, golden golden-hour natural lighting casting deep shadows across ancient granite carvings; rich, natural film textures with an earthy palette of deep terracotta, ochre, weathered stone, and antique gold; authentic, crowded historical perspective with soft natural haze and incense smoke (image_5.png)
+      },
+      full_image_prompt A natural, cinema-style 35mm photograph of a royal literary and scholarly assembly (Sangam) held in the grand granite courtyard of an ancient Tamil palace in Madurai, during the CholaPandya era (circa 1500–2000 years ago). On a raised, heavily carved stone platform to the left, a king in ornate gold ornaments and silk veshti sits on a lion-throne beneath a large ceremonial parasol, flanked by guards with metallic shields and swords, as well as seated ministers. In the foreground-center, prominent, bare-chested elder poet-scholars in draped cotton cloths and sandalwood markings sit on mats, gesturing passionately during a literary debate. To the right, a royal scribe on the floor etches palm-leaf manuscripts (olai chuvadi) with an iron stylus, surrounded by bundles of scripts. In the busy, tiered midground and right, a dense assembly of court officials, visiting scholars, and artists sits and stands, watching the proceedings. Richly carved stone pillars, stepped walkways, and a natural stepped water tank (teppakulam) fill the courtyard, with towering granite temple towers (gopurams) and massive banyan foliage visible in the golden-hour background. The air is slightly hazy with natural dust and incense smoke, capturing a crowded, highly detailed historical moment with weathered textures, deep shadow play, and un-posed realism (image_5.png).
+    }
+  }
+]
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+{
+  "project_title": "The Rhythm of Red Dirt (செம்மண் களம்)",
+  "runtime": "00:55",
+  "genre": "Gritty Historical Martial Arts / Realistic Action Drama",
+  "technical_parameters": {
+    "aspect_ratio": "16:9",
+    "framerate": "24fps (variable ramping to 60fps for slow-motion accents)",
+    "visual_aesthetic": "35mm textured film grain, warm 3200K amber highlights, lifted terracotta shadows, natural high-shutter combat clarity",
+    "lighting": "Early morning golden hour with low-angle sunbeams slicing through airborne red dust and faint woodsmoke",
+    "camera_language": "Grounded handheld at chest-to-waist level, whip-pans, low-angle tracking, stable wide framing to preserve continuous geometric choreography"
+  },
+  "setting": {
+    "location": "Sangam-era Tamil Kalari training ground / Village Mandram courtyard",
+    "ground": "Beaten terracotta red dirt and fine grit",
+    "surroundings": "Sprawling ancient banyan canopy, stone village shrine, rustic mud-and-thatch pavilions"
+  },
+  "characters": [
+    {
+      "name": "Velan",
+      "age": "Late teens",
+      "physique": "Lean, athletic, agile warrior",
+      "attire": "Traditional red-soil stained vasti/dhoti tied high, bare-chested, beaded talisman",
+      "weapon": "Seasoned Silambam (burnished solid bamboo staff)"
+    },
+    {
+      "name": "Kadhir",
+      "age": "Early 20s",
+      "physique": "Broad-shouldered, powerful, grounded combatant",
+      "attire": "Rough woven combat wrap, leather forearm vambraces, sweat-sheened torso",
+      "weapons": "Vaḷai Vāḷ (curved Sangam steel sword) and Parichai (engraved bronze buckler shield)"
+    },
+    {
+      "name": "Asan (Guru)",
+      "age": "60s",
+      "appearance": "Silver hair tied in a topknot, sharp commanding gaze, three streaks of sacred ash (Vibhuti) on forehead, holding a wooden cane"
+    },
+    {
+      "name": "Scribe",
+      "age": "30s",
+      "appearance": "Calm demeanor, seated cross-legged etching into dried palm leaves (Olai Chuvadi) with an iron stylus (Ezhuthani)"
+    }
+  ],
+  "scene_breakdown": [
+    {
+      "act": "Act I: Tension & Initiation",
+      "timestamp": "00:00 - 00:12",
+      "scenes": [
+        {
+          "scene_id": "01",
+          "shot_type": "Low-angle wide establishing whip-pan",
+          "visual": "Camera tilts down from a massive banyan canopy into the courtyard. Golden dust motes float through sunbeams. In the foreground corner, the Scribe methodically carves palm leaf scrolls. Velan and Kadhir pace a circle 10 feet apart, bare feet gripping red soil.",
+          "audio_fx": "Scratching iron stylus on brittle leaf, distant cattle, low muffled wooden practice thuds"
+        },
+        {
+          "scene_id": "02",
+          "shot_type": "Close-up / Dynamic inserts",
+          "visual": "Cut to Asan's unblinking eyes marked with Vibhuti. Extreme close-up of Kadhir’s hand clenching the bronze shield handle. Medium shot of Velan executing a rapid circular staff flourish (Suriya Vechi).",
+          "audio_fx": "Deep heartbeat pulse of Thannumai drum, sharp hiss of breath through teeth",
+          "dialogue": {
+            "speaker": "Asan (O.S.)",
+            "tamil": "துணிவு மட்டும் போதாது... நிதானமும் வேண்டும்!",
+            "english_translation": "Courage is not enough... you must have patience!"
+          }
+        }
+      ]
+    },
+    {
+      "act": "Act II: The Clash & Exchange",
+      "timestamp": "00:12 - 00:35",
+      "scenes": [
+        {
+          "scene_id": "03",
+          "shot_type": "Low-angle handheld tracking shot",
+          "visual": "Kadhir explodes forward, feinting with his curved blade and slamming the bronze shield toward Velan's chest. Velan plants his staff tip into the dirt, slides backward, and pivots to swing the opposite end.",
+          "audio_fx": "Deafening ring of bamboo impacting bronze, red earth exploding outward from sliding heels"
+        },
+        {
+          "scene_id": "04",
+          "shot_type": "High-intensity multi-angle cutting",
+          "visual": "Kadhir cuts downward diagonally; Velan blocks high with a two-handed staff guard, shaving splinters. Kadhir sweeps low; Velan performs an airborne leap (Thullal) over the sweep and strikes Kadhir's shoulder armor. Kadhir counters with a violent shield bash.",
+          "audio_fx": "Wood splintering, sword ringing against treated bamboo, mounting Urumi percussion cadence"
+        },
+        {
+          "scene_id": "05",
+          "shot_type": "Tight medium two-shot",
+          "visual": "Kadhir clamps the bamboo staff under the buckler's rim against the ground. Velan steps into the grapple, spins against the trapped staff, and lands a direct palm strike (Marma adigal) into Kadhir's sternum, driving him stumbling backward.",
+          "audio_fx": "Hollow percussive body strike, boots dragging heavily in coarse sand"
+        }
+      ]
+    },
+    {
+      "act": "Act III: The Climax & Discipline",
+      "timestamp": "00:35 - 00:55",
+      "scenes": [
+        {
+          "scene_id": "06",
+          "shot_type": "Speed-ramped slow-motion (24fps down to 60fps, snapping back)",
+          "visual": "Kadhir rushes in with a broad horizontal swing. Velan drops to one knee under the blade. In one sweeping motion from the ground, Velan jams the butt-end into Kadhir's shield lip, levers his arm outward, and snaps the top cane tip to a halt a single millimeter from Kadhir's throat. Airborne red dust freezes mid-drift.",
+          "audio_fx": "Abrupt cutoff to total silence, drum stops dead, ambient wind and heavy ragged breathing"
+        },
+        {
+          "scene_id": "07",
+          "shot_type": "Static wide tableau to silhouette fade",
+          "visual": "Kadhir slowly lowers his curved blade. Asan taps his staff once on the ground. Both duelists break stance, touch weapons to forehead and chest, and bow in deep reverence (Vanakkam). In foreground, Scribe blows dust off the fresh inscription. Cut to black on an ancient stone temple silhouette.",
+          "audio_fx": "Solemn chime of an ancient bronze temple bell",
+          "dialogue": {
+            "speaker": "Asan",
+            "tamil": "ஆயுதம் பகைவனை வெல்ல அல்ல... உன்னை ஆள!",
+            "english_translation": "The weapon is not to conquer your enemy... but to master yourself!"
+          }
+        }
+      ]
+    }
+  ]
+}
